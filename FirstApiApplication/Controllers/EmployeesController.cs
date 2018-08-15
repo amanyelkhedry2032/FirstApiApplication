@@ -9,6 +9,10 @@ namespace FirstApiApplication.Controllers
 {
     public class EmployeesController : ApiController
     {
-        public Employee
+        
+        public Employee GetAllEmployees()
+        {
+            
+        }
     }
 }
